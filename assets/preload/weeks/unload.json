@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"unloaded",
+			"uber",
+			[
+				40,
+				95,
+				168
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"uber",
+		"bf",
+		"gf"
+	],
+	"storyName": "originally from online vs., song from philiplol",
+	"weekName": "uber",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
