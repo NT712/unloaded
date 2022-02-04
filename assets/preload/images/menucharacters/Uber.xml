@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Uber.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UberkidMenu0000" x="0" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0001" x="0" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0002" x="426" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0003" x="426" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0004" x="852" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0005" x="852" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0006" x="1278" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0007" x="1278" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0008" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0009" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0010" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0011" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0012" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberkidMenu0013" x="1704" y="0" width="426" height="487"/>
+</TextureAtlas>
