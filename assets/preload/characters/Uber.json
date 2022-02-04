@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-191
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "UberKidsLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-239
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "UberKidDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-158
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UberKidUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-229
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "UberKidRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				492,
+				168
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "UberkidDie0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				206
+			],
+			"anim": "die2",
+			"fps": 24,
+			"name": "UberkidDie2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "UberKidIdle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Uberkids/Uberkids",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Uber",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

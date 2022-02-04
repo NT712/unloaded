@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				129,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "UberKidsLeft"
+		},
+		{
+			"offsets": [
+				21,
+				-239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "UberKidDown"
+		},
+		{
+			"offsets": [
+				24,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UberKidUp"
+		},
+		{
+			"offsets": [
+				-12,
+				-229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "UberKidRight"
+		},
+		{
+			"offsets": [
+				490,
+				206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die2",
+			"indices": [],
+			"name": "UberkidDie2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "UberKidIdle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1842,
+				538
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "die",
+			"loop": false,
+			"name": "UberKidReaction"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Uberkids/Bus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Uber",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

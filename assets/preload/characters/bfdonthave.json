@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				245,
+				-253
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-92,
+				-302
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-60,
+				-224
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP"
+		},
+		{
+			"offsets": [
+				-123,
+				-265
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-71,
+				-242
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF HEY!!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfdonthave",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Uber",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		110,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
