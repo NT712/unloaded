@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sprites were to big lmao.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kill0000" x="0" y="0" width="1690" height="809"/>
+	<SubTexture name="kill0001" x="0" y="0" width="1690" height="809"/>
+	<SubTexture name="kill0002" x="1690" y="0" width="1690" height="809"/>
+	<SubTexture name="kill0003" x="3380" y="0" width="1690" height="809"/>
+	<SubTexture name="kill0004" x="5070" y="0" width="1690" height="809"/>
+	<SubTexture name="kill0005" x="5070" y="0" width="1690" height="809"/>
+	<SubTexture name="kill0006" x="0" y="809" width="1690" height="809"/>
+	<SubTexture name="kill0007" x="0" y="809" width="1690" height="809"/>
+	<SubTexture name="kill0008" x="1690" y="809" width="1690" height="809"/>
+	<SubTexture name="kill0009" x="3380" y="809" width="1690" height="809"/>
+	<SubTexture name="kill0010" x="5070" y="809" width="1690" height="809"/>
+	<SubTexture name="kill0011" x="0" y="1618" width="1690" height="809"/>
+	<SubTexture name="kill0012" x="1690" y="1618" width="1690" height="809"/>
+	<SubTexture name="kill0013" x="3380" y="1618" width="1690" height="809"/>
+	<SubTexture name="kill0014" x="5070" y="1618" width="1690" height="809"/>
+	<SubTexture name="kill0015" x="0" y="2427" width="1690" height="809"/>
+	<SubTexture name="kill0016" x="1690" y="2427" width="1690" height="809"/>
+	<SubTexture name="kill0017" x="3380" y="2427" width="1690" height="809"/>
+	<SubTexture name="kill0018" x="5070" y="2427" width="1690" height="809"/>
+	<SubTexture name="kill0019" x="0" y="3236" width="1690" height="809"/>
+	<SubTexture name="kill0020" x="0" y="3236" width="1690" height="809"/>
+	<SubTexture name="kill0021" x="1690" y="3236" width="1690" height="809"/>
+	<SubTexture name="kill0022" x="3380" y="3236" width="1690" height="809"/>
+	<SubTexture name="kill0023" x="5070" y="3236" width="1690" height="809"/>
+	<SubTexture name="kill0024" x="0" y="4045" width="1690" height="809"/>
+</TextureAtlas>
