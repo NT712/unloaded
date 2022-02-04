@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lol.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UberKidIdle0000" x="0" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0001" x="0" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0002" x="426" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0003" x="426" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0004" x="852" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0005" x="852" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0006" x="1278" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0007" x="1278" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0008" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0009" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0010" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0011" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0012" x="1704" y="0" width="426" height="487"/>
+	<SubTexture name="UberKidIdle0013" x="1704" y="0" width="426" height="487"/>
+</TextureAtlas>

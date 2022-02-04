@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Heads.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frontbounce0000" x="0" y="0" width="2373" height="824"/>
+	<SubTexture name="frontbounce0001" x="0" y="0" width="2373" height="824"/>
+	<SubTexture name="frontbounce0002" x="2373" y="0" width="2373" height="824"/>
+	<SubTexture name="frontbounce0003" x="2373" y="0" width="2373" height="824"/>
+	<SubTexture name="frontbounce0004" x="4746" y="0" width="2373" height="824"/>
+	<SubTexture name="frontbounce0005" x="4746" y="0" width="2373" height="824"/>
+	<SubTexture name="frontbounce0006" x="0" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0007" x="0" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0008" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0009" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0010" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0011" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0012" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0013" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0014" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0015" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0016" x="2373" y="824" width="2373" height="824"/>
+	<SubTexture name="frontbounce0017" x="2373" y="824" width="2373" height="824"/>
+</TextureAtlas>
